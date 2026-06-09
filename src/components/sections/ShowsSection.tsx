@@ -28,7 +28,7 @@ const shows = [
     theme: "Liberté & Tolérance",
     description:
       "60 jeunes de la Villeneuve et de Jarrie se rencontrent, se côtoient et abordent les questions de liberté et de tolérance. Ensemble, ils abordent le sujet du monothéisme dans le monde d'aujourd'hui.",
-    audience: null,
+    audience: "600",
     image: "/thobiko.jpg",
     cd: "/cd-thobiko.jpg",
     color: "teal",
@@ -67,7 +67,7 @@ const shows = [
     theme: "Respect, Égalité & Espoir",
     description:
       "La notion de Respect, d'Égalité entre les Hommes, notion d'Avenir et d'Accomplissement de chacun, afin que tout Homme puisse avoir l'Espoir de connaître une vie meilleure.",
-    audience: null,
+    audience: "1200",
     image: "/scene-07.png",
     cd: null,
     color: "violet",
@@ -95,7 +95,7 @@ const shows = [
     theme: "Amour & Respect",
     description:
       "L'Amour, vecteur de Tolérance et d'Ouverture à l'Autre. Il est une énergie qui émane de notre être et dépasse la relation duelle. Il correspond au RESPECT que l'on porte au Monde : à tous les êtres vivants, à tous les Hommes.",
-    audience: null,
+    audience: "750",
     image: "/photo-parcelles-amour.jpg",
     cd: null,
     color: "gold",
@@ -121,7 +121,7 @@ const shows = [
     theme: "Tolérance & Diversité des Cultures",
     description:
       "Amener chacun à parler de soi et de s'ouvrir à l'Altérité. Aborder la notion de Tolérance et de l'Acceptation de la différence. Autour de l'Immigration italienne notamment, mais aussi de la diversité des Cultures, de la question de nos origines.",
-    audience: null,
+    audience: "1200",
     image: "/photo-21.jpg",
     cd: null,
     color: "teal",
