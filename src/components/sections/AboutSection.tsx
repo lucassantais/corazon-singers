@@ -187,12 +187,6 @@ export function AboutSection() {
                 <div className="absolute inset-0 bg-gradient-to-b from-stage-dark/20 to-transparent" />
               </div>
 
-              {/* Floating badge */}
-              <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10">
-                <div className="w-16 h-16 bg-gradient-to-br from-coral-500 to-gold-400 rounded-full flex items-center justify-center shadow-glow animate-pulse-glow">
-                  <span className="text-2xl">🎭</span>
-                </div>
-              </div>
             </div>
           </div>
         </div>
