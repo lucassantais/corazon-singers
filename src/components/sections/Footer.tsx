@@ -62,39 +62,6 @@ export function Footer() {
       {/* Background glow */}
       <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-[600px] h-[300px] bg-coral-600/5 blur-[150px] rounded-full" />
 
-      {/* Pre-footer CTA */}
-      <div className="relative border-b border-white/5">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <div className="glass border border-coral-500/20 rounded-3xl p-8 text-center bg-gradient-to-br from-coral-500/10 to-violet-500/5">
-            <div className="text-4xl mb-3">🎭</div>
-            <h3
-              className="text-2xl sm:text-3xl font-display font-black text-white mb-3"
-              style={{ fontFamily: "'Playfair Display', serif" }}
-            >
-              Prêt(e) à rejoindre l&apos;aventure ?
-            </h3>
-            <p className="text-white/70 font-body max-w-xl mx-auto mb-6">
-              Tu es collégien(ne) à Jarrie et tu veux monter sur scène ? Les
-              portes des Corazon Singers sont ouvertes !
-            </p>
-            <div className="flex flex-wrap gap-4 justify-center">
-              <a
-                href="mailto:closjouvinculture@orange.fr?subject=Adhésion Corazon Singers"
-                className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-coral-500 to-coral-600 hover:from-coral-400 hover:to-coral-500 text-white font-body font-bold rounded-full transition-all duration-300 hover:scale-105 shimmer-btn"
-              >
-                <Mail size={16} />
-                Nous rejoindre
-              </a>
-              <a
-                href="#spectacles"
-                className="inline-flex items-center gap-2 px-6 py-3 glass border border-white/20 hover:border-white/40 text-white font-body font-bold rounded-full transition-all duration-300 hover:scale-105"
-              >
-                Voir nos spectacles
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
 
       {/* Main footer */}
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
