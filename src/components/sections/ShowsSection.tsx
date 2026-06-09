@@ -370,7 +370,7 @@ export function ShowsSection() {
                     </p>
                   </div>
 
-                  <p className="text-white/60 font-body text-sm leading-relaxed line-clamp-3">
+                  <p className="text-white/60 font-body text-sm leading-relaxed">
                     {show.description}
                   </p>
 
