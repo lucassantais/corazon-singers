@@ -103,10 +103,10 @@ export function ContactSection() {
               {
                 icon: <MapPin size={24} />,
                 title: "Adresse",
-                value: "Collège Clos Jouvin",
-                desc: "Jarrie, Isère (38560)",
+                value: "227 rue Marcel Paul",
+                desc: "38560 Champ-sur-Drac",
                 color: "teal",
-                href: "https://maps.google.com/?q=College+Clos+Jouvin+Jarrie",
+                href: "https://maps.google.com/?q=227+rue+Marcel+Paul+38560+Champ-sur-Drac",
               },
               {
                 icon: <Users size={24} />,
