@@ -174,10 +174,9 @@ export function ContactSection() {
                 🎭 Rejoindre les Corazon Singers
               </h3>
               <p className="text-white/70 font-body text-sm leading-relaxed mb-4">
-                Tu es collégien(ne) au Collège Clos Jouvin et tu veux chanter,
-                danser et jouer ? Les Corazon Singers t&apos;accueillent avec
-                joie ! Parles-en à ton/ta professeur(e) d&apos;éducation
-                musicale ou contacte-nous directement.
+                Tu veux chanter, danser et jouer ? Les Corazon Singers
+                t&apos;accueillent avec joie ! Contacte nous à la messagerie :{" "}
+                <span className="text-coral-400 font-semibold">closjouvinculture@orange.fr</span>
               </p>
               <a
                 href="mailto:closjouvinculture@orange.fr?subject=Demande%20d'adhésion%20Corazon%20Singers"
