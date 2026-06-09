@@ -173,7 +173,7 @@ export function Footer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-3 text-center">
             <p className="text-white/30 font-body text-sm">
-              © {new Date().getFullYear()} Les Corazon Singers · Association Clos Jouvin Culture · Jarrie, Isère
+              © {new Date().getFullYear()} Les Corazon Singers · Association Clos Jouvin Culture · Champ-sur-Drac, Isère
             </p>
             <p className="flex items-center gap-1.5 text-white/30 font-body text-sm">
               Fait avec <Heart size={14} className="text-coral-500" /> pour la jeunesse artistique
