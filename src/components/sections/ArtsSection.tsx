@@ -146,7 +146,7 @@ export function ArtsSection() {
             Les Arts de la Scène
           </h2>
           <p className="text-white/60 font-body text-lg max-w-2xl mx-auto">
-            Une formation artistique complète qui transforme les collégiens en
+            Une formation artistique complète qui transforme les choristes en
             véritables artistes pluridisciplinaires.
           </p>
           <div className="w-24 h-1 bg-gradient-to-r from-teal-500 to-violet-500 rounded-full mx-auto mt-4" />

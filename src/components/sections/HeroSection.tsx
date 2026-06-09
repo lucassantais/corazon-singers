@@ -161,12 +161,12 @@ export function HeroSection() {
 
             {/* Description */}
             <p className="text-white/70 font-body text-lg sm:text-xl leading-relaxed mb-8 max-w-xl mx-auto lg:mx-0">
-              Une chorale de collégiens du{" "}
+              À la croisée du chant, du théâtre, du mime et de la danse, notre{" "}
               <span className="text-coral-400 font-semibold">
-                Collège Clos Jouvin
+                chœur intergénérationnel
               </span>{" "}
-              qui unit chant, danse et théâtre pour créer des spectacles vivants
-              inoubliables.
+              conçoit et interprète des spectacles raffinés, porteurs
+              d&apos;émotion et d&apos;excellence artistique.
             </p>
 
             {/* Stats */}

@@ -21,7 +21,7 @@ export function AboutSection() {
   const milestones = [
     {
       year: "2005",
-      title: "Naissance de l'association",
+      title: "Naissance de Clos Jouvin Culture",
       desc: "80 adhérents dès la première année, une dizaine de bénévoles engagés.",
       color: "coral",
     },
@@ -97,23 +97,22 @@ export function AboutSection() {
             }`}
           >
             <p className="text-lg text-white/80 font-body leading-relaxed mb-6">
-              Nés en{" "}
-              <span className="text-coral-400 font-bold">novembre 2005</span>,
+              Depuis{" "}
+              <span className="text-coral-400 font-bold">septembre 2002</span>,
               les{" "}
               <span className="text-white font-bold">Corazon Singers</span>{" "}
-              sont la chorale artistique du Collège Clos Jouvin à Jarrie. Notre
-              association promeut et soutient des projets artistiques et
-              culturels en direction de la{" "}
-              <span className="text-gold-400 font-semibold">jeunesse</span>.
+              proposent des spectacles dont la qualité artistique est largement
+              reconnue. Ces projets sont portés par l&apos;association{" "}
+              <span className="text-gold-400 font-semibold">Clos Jouvin Culture</span>.
             </p>
             <p className="text-lg text-white/80 font-body leading-relaxed mb-6">
               Chaque année, entre{" "}
               <span className="text-teal-400 font-bold">45 et 60 jeunes</span>{" "}
               de 10 à 20 ans montent sur scène, accompagnés de musiciens et
               techniciens professionnels de la scène grenobloise. Nos spectacles
-              sont reconnus de{" "}
+              s&apos;inscrivent dans le cadre{" "}
               <span className="text-white font-semibold">
-                qualité professionnelle
+                &laquo; SPECTACLE VIVANT &raquo;
               </span>
               .
             </p>
